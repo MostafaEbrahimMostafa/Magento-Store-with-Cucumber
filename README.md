@@ -76,7 +76,7 @@ For any inquiries, collaborations, or contributions, feel free to reach out:
 
 - **👤 Tester Name:** <span style="color:#89CFF0">Mustafa Ibrahim Mostafa</span>
 - **📧 Email:** <span style="color:#89CFF0">mustafa.ibrahim.qa@gmail.com</span>
-- **🔗 LinkedIn:** [MyProfile](https://www.linkedin.com/in/mostafa-ibrahim-mostafa/)
+- **🔗 LinkedIn:** [MyProfile](https://www.linkedin.com/in/mostafa-ibrahim-mostafa-6530b4235/)
 - **📞 Phone:** <span style="color:#89CFF0">(+02) 01005747258</span>
 
 ---
